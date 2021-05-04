@@ -64,11 +64,83 @@ body {
 /******RESPONSIVENESS******/
 
 /*For tablet*/
-@media only screen and (min-width: 701px) and (max-width: 1024px) {
-
+@media only screen and (min-width: 481px) and (max-width: 767px) {
+	.button-pic {
+		width: 48%;
+	}
 }
 
-/*For desktop*/
-@media only screen and (min-width: 1023px) {
+/*For desktop1*/
+@media only screen and (min-width: 767px) and (max-width: 800px) {
+	.button-pic {
+		width: 48%;
+	}
 
+	.btn {
+		font-size: 1.14em;
+	}
+}
+
+/*For desktop1*/
+@media only screen and (min-width: 800px) and (max-width: 992px) {
+	.hey-title {
+    	font-size: 2.5em;
+	}
+
+	.display-pic {
+ 	   width: 13em;
+	}
+
+    .tlrname {
+	    font-size: 1.7em;
+	    margin-top: 1em;
+	}
+
+	.tlrdesc {
+	    font-size: 1em;
+	    margin-bottom: 3em;
+	}
+
+    .button-pic {
+		width: 48%;
+	}
+
+	.btn {
+		font-size: 1.5em;
+	}
+}
+
+/*For desktop2*/
+@media only screen and (min-width: 992px) {
+	.button-pic {
+		width: 60%;
+	}
+
+	.btn {
+		font-size: 1.3em !important;
+	}
+
+	.hey-title {
+    	font-size: 2em;
+    }
+
+    .display-pic {
+ 	   width: 10em;
+	}
+
+	.tlrname {
+    	font-size: 1.4em;
+    }
+
+    .tlrdesc {
+    	font-size: 0.9em;
+    }
+
+    .socmed-btn {
+		font-size: 1.5em;
+	}
+
+.socmedlabel {
+	font-size: 0.8em;
+}
 }
