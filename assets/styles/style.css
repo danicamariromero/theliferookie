@@ -20,7 +20,7 @@ body {
 
 .tlrname {
 	font-family: 'Secular One', sans-serif;
-	font-size: 1em;
+	font-size: 1.3em;
 	font-weight: bold;
 	color: #e76e3c;
 }
@@ -92,7 +92,7 @@ body {
 	}
 
     .tlrname {
-	    font-size: 1.7em;
+	    font-size: 2em;
 	    margin-top: 1em;
 	}
 
@@ -129,7 +129,7 @@ body {
 	}
 
 	.tlrname {
-    	font-size: 1.4em;
+    	font-size: 1.7em;
     }
 
     .tlrdesc {
