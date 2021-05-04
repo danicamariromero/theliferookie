@@ -1,0 +1,56 @@
+body {
+	background-image: url('../images/bg.jpg');
+	background-repeat: no-repeat;
+	background-attachment: fixed;
+  	background-size: cover;
+}
+
+.display-pic {
+  border-radius: 50%;
+  width: 9em;
+  box-shadow: 2px 4px 15px lightslategrey;
+}
+
+.hey-title {
+	font-family: 'Rock Salt', cursive;
+	font-size: 1.3em;
+    color: black;
+    font-weight: bold;
+}
+
+.tlrname {
+	font-family: 'Secular One', sans-serif;
+	font-size: 1em;
+	font-weight: bold;
+	color: #e76e3c;
+}
+
+.btn {
+	text-align: left;
+	font-family: 'Secular One', sans-serif;
+	font-size: 1em;
+	text-transform: none;
+	letter-spacing: 0.5px;
+	padding-right: 0.2em;
+    padding-left: 0.2em;
+    box-shadow: 4px 4px #e76e3c;
+}
+
+.button-pic {
+	width: 75%;
+	border-radius: 50%;
+}
+
+.socmed-btn {
+	color: black;
+	text-shadow: 2px 2px #e76e3c;
+}
+
+.socmedlabel {
+	font-family: 'Secular One', sans-serif;
+	font-size: 0.6em;
+}
+
+.smiley {
+	font-size: 1.2em;
+}
