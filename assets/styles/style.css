@@ -25,7 +25,12 @@ body {
 	color: #e76e3c;
 }
 
-.btn {
+.btn-dat {
+	padding-top: 1em;
+	padding-bottom: 1em;
+}
+
+.btn-dat, .btn {
 	text-align: left;
 	font-family: 'Secular One', sans-serif;
 	font-size: 1em;
